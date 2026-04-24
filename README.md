@@ -41,10 +41,8 @@ Instead of deep learning, this project demonstrates how traditional ML technique
 
 ## 🖼️ Sample Output
 
-(Add your screenshot here)
+<img width="1919" height="1026" alt="Screenshot 2026-04-24 143014" src="https://github.com/user-attachments/assets/002e0e0d-4428-4111-adb3-91c5304dfc95" />
+
 
 ---
 
-## 🚀 How to Run
-
-1. Install dependencies:
